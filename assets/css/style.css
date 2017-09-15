@@ -1,0 +1,32 @@
+.jumbotron {
+	background-color: #BC0101;
+	color: white;
+}
+
+h1 {
+	text-align: center;
+}
+
+header {
+	font-weight: bold;
+}
+
+.panel {
+	border: 1px solid #BC0101;
+}
+
+.panel-heading {
+	background-color: #BC0101 !important;
+	color: white !important;
+	margin-bottom: 5px;
+}
+
+.form-group {
+	padding: 0px 10px 0px 10px;
+}
+
+.btn {
+	margin: 0px 0px 10px 10px;
+	background-color: #BC0101;
+	color: white;
+}
